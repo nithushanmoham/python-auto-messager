@@ -4,7 +4,7 @@ import time
 
 pyautogui.alert('It will be started in 3ms after you click ok button')
 
-time.sleep(5)
+time.sleep(3)
 
 text = 'Hello Every All'
 
