@@ -6,7 +6,7 @@ pyautogui.alert('It will be started in 3ms after you click ok button')
 
 time.sleep(3)
 
-text = 'Hello Every All'
+text = 'Hi Everyone'
 
 while True:
     pyautogui.typewrite(text)
