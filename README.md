@@ -41,9 +41,9 @@ Bulk Messaging: Send multiple messages simultaneously, making it easy to reach a
   
 - Install Time
 
-```
-  pip install Time
-```
+  ```
+    pip install Time
+  ```
 
 ## Social Links
 
